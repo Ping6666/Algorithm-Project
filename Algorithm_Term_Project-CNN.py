@@ -2,7 +2,7 @@
 """
 Created on Wed May 20 14:42:33 2020
 
-@author: user
+@author: Ping
 """
 #引入各項需要的lib
 import os
