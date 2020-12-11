@@ -58,4 +58,4 @@
 4. [Machine Learning 03 LSTM](https://youtu.be/RpdgGApjn40)
 5. [Machine Learning 04 GRU](https://youtu.be/ytiLcksrN_4)
 
-## 備註 : 切勿互相抄襲，若發現抄襲，則以0分計算
+### 備註 : 切勿互相抄襲，若發現抄襲，則以0分計算
